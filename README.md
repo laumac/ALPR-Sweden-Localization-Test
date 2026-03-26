@@ -12,9 +12,9 @@ The goal was to validate the system's performance on standard Swedish license pl
 
 ## 📊 Key Metrics (Results)
 * **Total Samples:** 100
-* **Swedish Standard Plates (6 chars):** [Įrašyk savo skaičių, pvz. 85]
-* **Accuracy on Standard Plates:** [Įrašyk savo %, pvz. 88%]
-* **Non-Standard/Invalid Plates:** [Įrašyk savo skaičių, pvz. 15]
+* **Swedish Standard Plates (6 chars):** []
+* **Accuracy on Standard Plates:** [ %]
+* **Non-Standard/Invalid Plates:** []
 
 ## 🛠 Tools Used
 * **Python / Pandas:** For data manipulation and filtering.
